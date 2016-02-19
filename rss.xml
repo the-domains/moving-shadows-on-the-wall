@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Moving Shadows on the Wall]]></title>
+        <description><![CDATA[Moving Shadows on the Wall]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 19 Feb 2016 00:56:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Oscar Predictions 1/15/16 - Academy Awards 2016 - Hollywood Reporter]]></title>
+            <description><![CDATA[<article><h1>Oscar Predictions 1/15/16 - Academy Awards 2016 - Hollywood Reporter</h1><p>See who leading the pack in this year's race to the Oscars! @THR Oscar Predictions 2015-16</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7f6a9b0b8166ab83afefb82381057f02307046b.jpg"></article>]]></description>
+            <link>http://www.hollywoodreporter.com/awards/predictions/oscars/2015/academy-awards-11416/</link>
+            <guid isPermaLink="false">667f9fff-165f-4cc0-9d9f-fb65bbf3c986</guid>
+            <pubDate>Fri, 19 Feb 2016 00:55:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
