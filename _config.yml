@@ -1,0 +1,28 @@
+name: Moving Shadows on the Wall
+favicon: null
+layout_spectrum: 0.7048162464052439
+typography_spectrum: 0.11248226091265678
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.40714118676260114
+  lightness: 0.6094053685665131
+  saturation: 0.5017120812553912
+  rhythmicContrast: 0.8981885008979589
+purpose: []
